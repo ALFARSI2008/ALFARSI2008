@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **GitHub-Readme**
 
-- 👨‍💻 All of my projects are available at __still working__
+- 👨‍💻 All of my projects are available at _still working_
 
 - 📝 I regularly write articles on [Dev to](https://dev.to/alfarsi2008)
 
